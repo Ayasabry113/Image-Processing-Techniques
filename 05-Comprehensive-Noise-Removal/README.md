@@ -70,15 +70,6 @@ Open `Image_Noise_Removal.ipynb` in Jupyter Notebook, JupyterLab, or Google Cola
 
 The notebook uses a standard grayscale test image and includes a fallback synthetic image path if the test image is unavailable.
 
-## Team
-
-This project was completed as a team assignment for the Image Processing course (Academic Year 2025/2026).
-
-- Mohamed Ahmed Saleh
-- Remon Maged
-- Aya Sabry
-- Nariman Mahmoud
-- Alaa Hassan
 
 ## Notes and Future Improvements
 
